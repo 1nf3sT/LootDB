@@ -1,0 +1,9 @@
+------------------------------------------------------------------------
+r81214 | sayclub | 2008-09-01 03:17:28 -0400 (Mon, 01 Sep 2008) | 2 lines
+Changed paths:
+   M /trunk/LootDB/LootDB.toc
+   A /trunk/LootDB/lootdbLocals-koKR.lua
+
+LootDB:
+- koKR translation added
+------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+﻿## Interface: 20400
+## Title: LootDB |cff7fff7f -Ace2-|r
+## Version: 1.0
+## Notes: Shows loot information in item tooltips
+## Title-zhCN: 副本物品掉落信息
+## Notes-zhCN: 在鼠标提示框内显示副本掉落的物品、装备的来源、掉率等信息
+## Author: Filiassin
+## X-eMail: mlu [at] azerothischer-bote [dot] de
+## SavedVariables: 
+## OptionalDeps: Ace2, TipHookerLib
+## X-Embeds: Ace2, TipHookerLib
+## X-Category: Interface Enhancements
+## X-License: GPL v2
+## X-Encoding: UTF-8
+
+#################
+# Ace Libraries #
+#################
+libs\AceLibrary\AceLibrary.lua
+# AceLocale: AceLibrary
+libs\AceLocale-2.2\AceLocale-2.2.lua
+# TipHooker: AceLibrary
+libs\TipHooker-1.0\TipHooker-1.0.lua
+# AceOO: AceLibrary
+libs\AceOO-2.0\AceOO-2.0.lua
+# AceConsole: AceLibrary, AceOO
+libs\AceConsole-2.0\AceConsole-2.0.lua
+# AceEvent: AceLibrary, AceOO
+libs\AceEvent-2.0\AceEvent-2.0.lua
+# AceDebug: AceLibrary, AceOO
+libs\AceDebug-2.0\AceDebug-2.0.lua
+# AceAddon: AceLibrary, AceOO, AceEvent, AceConsole (optional)
+libs\AceAddon-2.0\AceAddon-2.0.lua
+
+########
+# Core #
+########
+LootDB.lua
+lootdbLocals.lua
+lootdbLocals-deDE.lua
+lootdbLocals-zhCN.lua
+lootdbLocals-koKR.lua
+loottable.lua

@@ -1,0 +1,1 @@
+Updating the final version of LootDB for World of Warcraft - The Burning Crusade 2.4.3

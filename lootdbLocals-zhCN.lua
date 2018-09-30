@@ -1,6 +1,9 @@
 ﻿local L = AceLibrary("AceLocale-2.2"):new("LootDB")
 
 L:RegisterTranslations("zhCN", function() return {
+    ["Reliquary of Souls"]  = "灵魂圣物",
+    ["Chess Event"]  = "国际象棋比赛",
+    ["Quest Reward"]  = "任务奖励",
     ["Source"] = "来源",
     ["Boss"] = "掉落者",
     ["Chest Drop"] = "宝箱",

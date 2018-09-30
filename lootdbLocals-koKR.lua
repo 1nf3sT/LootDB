@@ -5,6 +5,9 @@
 local L = AceLibrary("AceLocale-2.2"):new("LootDB")
 
 L:RegisterTranslations("koKR", function() return {
+    ["Reliquary of Souls"]  = "영혼의 유물",
+    ["Chess Event"]  = "체스 이벤트",
+    ["Quest Reward"]  = "퀘스트 보상",      
     ["Source"] = "획득처",
     ["Boss"] = "보스",
     ["Chest Drop"] = "금고",

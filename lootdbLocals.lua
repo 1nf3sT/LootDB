@@ -1,7 +1,8 @@
 local L = AceLibrary("AceLocale-2.2"):new("LootDB")
 
 L:RegisterTranslations("enUS", function() return {
-    ["Reliquary of Souls"]  = true,
+    ["Shade of Akama"]  = true,
+	["Reliquary of Souls"]  = true,
     ["Chess Event"]  = true,
     ["Quest Reward"]  = true,    
     ["Source"] = true,
